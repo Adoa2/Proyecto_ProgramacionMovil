@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Proyecto_ProgramacionMovil</string>
+    <string name="coffee_logo">Coffee Logo</string>
+    <string name="menu">Menú</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="contact">Contacto</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
