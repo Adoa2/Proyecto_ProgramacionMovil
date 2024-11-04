@@ -46,4 +46,7 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="redes_sociales_cafe123">Redes Sociales: @Cafe123</string>
+    <string name="informaci_n_de_la_cafeter_a">Información de la Cafetería</string>
+    <string name="contacto">Contacto</string>
 </resources>
