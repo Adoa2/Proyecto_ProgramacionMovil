@@ -42,4 +42,9 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="refresca_tu_d_a_con_nuestro_delicioso_caf_frapp">¡Refresca tu día con nuestro delicioso café frappé!</string>
+    <string name="precio">Precio:</string>
+    <string name="volumen">Volumen:</string>
+    <string name="_75_lempiras">75 lempiras</string>
+    <string name="_8_12_onz">8/12 Onz</string>
 </resources>
